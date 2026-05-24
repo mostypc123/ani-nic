@@ -1,0 +1,8 @@
+ani-nic
+An offline Arch Linux installer
+
+Use the file /root.tar.zst to copy a simple system to your drive, once you finish partitioning.
+This medium intentionally does not include NetworkManager, iwd or ModemManager.
+
+Loading, please wait...
+
