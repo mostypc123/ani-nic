@@ -10,6 +10,8 @@ To install ani-nic, you simply boot the .iso file and follow the standard instal
 tar -I zstd /root.tar.zst /mnt --strip-components=1
 ```
 
+<img width="1263" height="781" alt="image" src="https://github.com/user-attachments/assets/02f6b05d-864a-4019-9779-f41aea1ab0ce" />
+
 # WTF is that name?
 
 Means "not even nothing" in my native language, Slovak.
